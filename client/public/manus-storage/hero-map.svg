@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680" role="img" aria-labelledby="title">
+  <title id="title">EV charger map in Ghana</title>
+  <rect width="900" height="680" rx="28" fill="#091118"/>
+  <g stroke="#1f2937" stroke-width="2">
+    <path d="M80 150h760M80 280h760M80 410h760M80 540h760"/>
+    <path d="M170 70v560M330 70v560M490 70v560M650 70v560M810 70v560"/>
+  </g>
+  <path d="M520 80c-70 18-112 60-118 126-5 51-43 85-94 108-66 31-86 92-56 147 27 49 15 103-30 143l128 34c89-28 132-82 126-162-4-52 28-88 78-114 68-35 95-90 76-163-15-56 10-91 65-118Z" fill="#10251b" stroke="#39d353" stroke-width="5"/>
+  <g fill="#39d353" stroke="#d7ffe4" stroke-width="4">
+    <circle cx="510" cy="170" r="14"/>
+    <circle cx="430" cy="260" r="14"/>
+    <circle cx="545" cy="335" r="14"/>
+    <circle cx="385" cy="455" r="14"/>
+    <circle cx="475" cy="540" r="14"/>
+  </g>
+  <g font-family="Space Grotesk, Inter, Arial, sans-serif">
+    <rect x="72" y="70" width="235" height="88" rx="18" fill="#111a23" stroke="#263241"/>
+    <text x="100" y="112" fill="#f8fafc" font-size="26" font-weight="800">Ghana Network</text>
+    <text x="100" y="140" fill="#39d353" font-size="18">50+ stations online</text>
+    <rect x="610" y="500" width="210" height="92" rx="18" fill="#111a23" stroke="#39d353" stroke-opacity=".4"/>
+    <text x="638" y="542" fill="#f8fafc" font-size="24" font-weight="800">Accra</text>
+    <text x="638" y="570" fill="#9ca3af" font-size="17">12 chargers available</text>
+  </g>
+</svg>

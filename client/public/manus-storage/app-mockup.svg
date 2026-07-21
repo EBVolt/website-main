@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="980" viewBox="0 0 520 980" role="img" aria-labelledby="title">
+  <title id="title">EcoBelle Volt app mockup</title>
+  <rect width="520" height="980" fill="none"/>
+  <rect x="70" y="34" width="380" height="912" rx="58" fill="#05080c" stroke="#334155" stroke-width="10"/>
+  <rect x="96" y="86" width="328" height="806" rx="34" fill="#0b1218"/>
+  <rect x="190" y="62" width="140" height="20" rx="10" fill="#111827"/>
+  <g font-family="Space Grotesk, Inter, Arial, sans-serif">
+    <text x="124" y="148" fill="#f8fafc" font-size="30" font-weight="800">EB Volt</text>
+    <text x="124" y="178" fill="#9ca3af" font-size="17">Nearby chargers</text>
+    <rect x="124" y="210" width="272" height="160" rx="26" fill="#10251b" stroke="#39d353" stroke-opacity=".45"/>
+    <text x="150" y="260" fill="#39d353" font-size="20" font-weight="800">Airport City</text>
+    <text x="150" y="292" fill="#f8fafc" font-size="46" font-weight="800">82%</text>
+    <text x="150" y="326" fill="#9ca3af" font-size="18">available now</text>
+    <rect x="124" y="410" width="272" height="92" rx="22" fill="#111a23"/>
+    <rect x="124" y="526" width="272" height="92" rx="22" fill="#111a23"/>
+    <rect x="124" y="642" width="272" height="92" rx="22" fill="#111a23"/>
+    <g fill="#39d353">
+      <circle cx="158" cy="456" r="15"/>
+      <circle cx="158" cy="572" r="15"/>
+      <circle cx="158" cy="688" r="15"/>
+    </g>
+    <g fill="#f8fafc" font-size="20" font-weight="700">
+      <text x="190" y="463">East Legon</text>
+      <text x="190" y="579">Osu Oxford St</text>
+      <text x="190" y="695">Kumasi Mall</text>
+    </g>
+    <rect x="124" y="790" width="272" height="58" rx="18" fill="#039c2b"/>
+    <text x="260" y="827" fill="#fff" font-size="20" font-weight="800" text-anchor="middle">Reserve Slot</text>
+  </g>
+</svg>

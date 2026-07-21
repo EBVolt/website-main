@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-labelledby="title">
+  <title id="title">EV charging station at night</title>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#071014"/>
+      <stop offset=".55" stop-color="#0b1720"/>
+      <stop offset="1" stop-color="#07120b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".72" cy=".54" r=".42">
+      <stop stop-color="#39d353" stop-opacity=".42"/>
+      <stop offset=".55" stop-color="#39d353" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#39d353" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1800" height="1100" fill="url(#sky)"/>
+  <rect width="1800" height="1100" fill="url(#glow)"/>
+  <path d="M0 830c220-70 445-80 700-48 325 40 675-70 1100 12v306H0Z" fill="#06100d"/>
+  <g opacity=".22" stroke="#39d353" stroke-width="2">
+    <path d="M1020 120v610M1130 80v680M1240 160v560M1350 90v700M1460 145v590"/>
+    <path d="M930 720h650M980 640h540M1040 560h410"/>
+  </g>
+  <g transform="translate(1030 330)">
+    <rect x="0" y="0" width="180" height="360" rx="26" fill="#eef7f0"/>
+    <rect x="24" y="28" width="132" height="96" rx="16" fill="#071014"/>
+    <rect x="42" y="48" width="96" height="18" rx="9" fill="#39d353"/>
+    <rect x="42" y="78" width="70" height="12" rx="6" fill="#39d353" opacity=".7"/>
+    <circle cx="90" cy="210" r="48" fill="#102018" stroke="#39d353" stroke-width="8"/>
+    <path d="m93 172-34 55h31l-12 44 45-65H94Z" fill="#39d353"/>
+    <path d="M180 110c130 5 190 72 180 195-8 96 42 136 118 138" fill="none" stroke="#39d353" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1210 595)">
+    <path d="M40 155c28-90 95-145 205-160l170 20c92 20 150 68 174 144l-48 16H82Z" fill="#12202a"/>
+    <path d="M120 52h270l86 90H54Z" fill="#24364a"/>
+    <path d="M145 70h214l58 58H99Z" fill="#39d353" opacity=".32"/>
+    <circle cx="150" cy="174" r="42" fill="#05080b" stroke="#4b5563" stroke-width="14"/>
+    <circle cx="456" cy="174" r="42" fill="#05080b" stroke="#4b5563" stroke-width="14"/>
+    <path d="M520 64h36c42 0 76 34 76 76v20h-78Z" fill="#172536"/>
+  </g>
+</svg>
